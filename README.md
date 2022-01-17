@@ -73,3 +73,7 @@ if __name__ == '__main__':
 ```
 
 ```video_file=None``` if you want to run internal camera.
+
+
+
+Do folder chứa code và data có dung lượng quá lớn nên chúng em không thể đưa hết lên github được, nhóm em xin phép chỉ đưa lên phần code còn phần dữ liệu đã có trong diver rồi ạ
